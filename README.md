@@ -61,6 +61,6 @@ A comprehensive Telegram bot that acts as an all-in-one hub for CS2 players. It 
 
 ## 🎬 Demo Video
 
-![Demo Video](demo.mp4)
+![demo Video](demo.mp4)
 
 ---
