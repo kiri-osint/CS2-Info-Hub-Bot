@@ -26,7 +26,7 @@ else:
 dp = Dispatcher()
 
 async def main() -> None:
-    bot = Bot(token="8339638325:AAF8lRVS6eJOb5DVVGkErmFDrv13A3oZ2f0")
+    bot = Bot(token="you token")
 
     dp.include_router(router)
 
