@@ -58,9 +58,7 @@ A comprehensive Telegram bot that acts as an all-in-one hub for CS2 players. It 
 ---
 
 
-
 ## 🎬 Demo Video
-
-![demo Video](demo.mp4)
-
----
+<video src="demo.mp4" controls="controls" muted loop autoplay style="max-width: 100%; height: auto;">
+    Ваш браузер не поддерживает видео.
+</video>
