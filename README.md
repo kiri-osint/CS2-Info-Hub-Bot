@@ -34,7 +34,7 @@ A comprehensive Telegram bot that acts as an all-in-one hub for CS2 players. It 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/kiri-osint/CS2-Info-Hub-Bot.git](https://github.com/kiri-osint/CS2-Info-Hub-Bot.git)
+    git clone https://github.com/kiri-osint/CS2-Info-Hub-Bot.git (https://github.com/kiri-osint/CS2-Info-Hub-Bot.git)
     cd CS2-Info-Hub-Bot
     ```
 2.  **Create a virtual environment and install dependencies:**
